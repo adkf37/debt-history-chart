@@ -1,4 +1,4 @@
-Year	Debt Held by the Public as a % of GDP
+Year	Debt
 1940	43.6
 1941	41.5
 1942	45.9
